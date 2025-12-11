@@ -5,6 +5,12 @@
 
 This project decomposes hedge-fund-like returns into traditional equity beta, style premia and latent risk factors, using a hedge-fund index ETF as a proxy.
 
+**Quick navigation / interactive view**
+
+For convenience, you can explore the notebook through the links below (static render or fully interactive in the browser):
+- 👉 **nbviewer (static, fast navigation)**: https://nbviewer.org/github/manoelbarroso-python-finance/Decomposing-Hedge-Fund-Returns-From-Market-Beta-to-Alternative-Risk-Premia/blob/main/hedge_funds.ipynb  
+- 🚀 **Google Colab (interactive, run the code online)**: https://colab.research.google.com/github/manoelbarroso-python-finance/Decomposing-Hedge-Fund-Returns-From-Market-Beta-to-Alternative-Risk-Premia/blob/main/hedge_funds.ipynb
+
 The goal is to answer:
 
 > How much of a hedge-fund-like return series can be explained by traditional equity beta, style factors and latent risk components (PCs), and how much is better seen as exposure to alternative risk premia or residual “true alpha”?
